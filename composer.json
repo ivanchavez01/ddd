@@ -3,7 +3,7 @@
     "description": "Domain Driven Design Package",
     "type": "library",
     "require": {
-        "php": "8.0.*",
+        "php": ">=8.0",
         "ramsey/uuid": "4.x-dev"
     },
     "require-dev": {
